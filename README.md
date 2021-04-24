@@ -7,7 +7,7 @@
 
 - 🤝 I’m currently working with **Kafa, Docker and Kubernetes**
 
-- 🤝👯 Previously working in mercadolibre [MercadoLibre](http://mercadolibre.com/)
+- 🤝👯 Previously working in [MercadoLibre](http://mercadolibre.com/)
 
 - 📫 How to reach me **tomasmendesr@gmail.com**
 
