@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tomas Mendes Ribeiro</h1>
 <h3 align="center">Systems Information Engineer developing software from argentina</h3>
 
-- 🔭 I’m currently building microservices with **Java**
+- 🔭 I’m currently building web3 applications with **React** and **.NET**
 
-- 🌱 I’m currently learning **React and Nodejs**
-
-- 🤝 I’m currently working with **Kafa, Docker and Kubernetes**
+- 🌱 Using **Solidity and Bitcoin Core**.
 
 - 👯 Previously working in [MercadoLibre](http://mercadolibre.com/)
 
