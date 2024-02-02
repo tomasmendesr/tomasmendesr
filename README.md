@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tomas Mendes Ribeiro</h1>
 <h3 align="center">Systems Information Engineer developing software from argentina</h3>
 
-- 🔭 I’m currently building web3 applications with **React** and **.NET**
+- 🔭 I’m currently building web applications with **React**, **.Nodejs** and working with AWS resources like **AWS Lambdas** using **Terraform.**
 
-- 🌱 Using **Solidity and Bitcoin Core**.
+- 🌱 Passionate about web3 techonologies such as **Solidity, Truffle and Bitcoin Core**.
 
-- 👯 Previously working in [MercadoLibre](http://mercadolibre.com/)
+- 👯 Previously working in [RGA](https://rga.com/), [MadMobile](https://madmobile.com/), MinandoBitcoin and [MercadoLibre](http://mercadolibre.com/)
 
 - 📫 How to reach me **tomasmendesr@gmail.com**
 
